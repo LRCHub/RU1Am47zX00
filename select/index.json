@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "シアワセ☆ハイテンション↑↑",
+  "base_artist": "南春香(CV:佐藤利奈)、南夏奈(CV:井上麻里奈)、南千秋(CV:茅原実里)",
+  "createdAt": "2026-02-07T07:58:56.636720Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シアワセ☆ハイテンション↑↑",
+      "artist": "南 春香(CV:佐藤利奈)／南 夏奈(CV:井上麻里奈)／南 千秋(CV:茅原実里)",
+      "has_synced": false,
+      "path": "select/01_シアワセ☆ハイテンション↑↑_南_春香(CV_佐藤利奈)_南_夏奈(CV_井上麻里奈)_南_千秋(CV_茅原実里).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シアワセ☆ハイテンション↑↑",
+      "artist": "南春香(CV:佐藤利奈)、南夏奈(CV:井上麻里奈)、南千秋(CV:茅原実里)",
+      "has_synced": false,
+      "path": "select/02_シアワセ☆ハイテンション↑↑_南春香(CV_佐藤利奈)、南夏奈(CV_井上麻里奈)、南千秋(CV_茅原実里).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シアワセ☆ハイテンション↑↑",
+      "artist": "南春香(佐藤利奈),南夏奈(井上麻里奈),南千秋(茅原実里)",
+      "has_synced": false,
+      "path": "select/pl_01_シアワセ☆ハイテンション↑↑_南春香(佐藤利奈),南夏奈(井上麻里奈),南千秋(茅原実里).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "シアワセ☆ハイテンション↑↑",
+      "artist": "南春香(佐藤利奈),南夏奈(井上麻里奈),南千秋(茅原実里)",
+      "has_synced": false,
+      "path": "select/pl_02_シアワセ☆ハイテンション↑↑_南春香(佐藤利奈),南夏奈(井上麻里奈),南千秋(茅原実里).txt"
+    }
+  ]
+}
